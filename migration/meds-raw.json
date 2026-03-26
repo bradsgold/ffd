@@ -1,0 +1,7 @@
+{
+  "sourceFiles": [
+    "C:\\Users\\brads\\ems-tools\\data\\medications.js",
+    "C:\\ems-tools-backup\\data\\medications.js"
+  ],
+  "note": "Full original JS dataset is in the backups. A sanitized subset was extracted into src/data/medications.ts for initial migration. Review migration/ for mapping and logs."
+}
