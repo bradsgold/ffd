@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "0625aa5e-ef0e-42c7-8a97-bff507cd19e6"
+      }
+    },
+    "android": {
+      "package": "com.bsgold.emstools"
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "compileSdkVersion": 34,
+            "targetSdkVersion": 34,
+            "minSdkVersion": 23,
+            "buildToolsVersion": "34.0.0",
+            "kotlinVersion": "1.8.20",
+            "buildGradlePluginVersion": "8.1.1"
+          }
+        }
+      ]
+    ]
+  }
+}
